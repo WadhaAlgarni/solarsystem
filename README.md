@@ -1,5 +1,5 @@
 # Solar System Web Page
-A simple educational web page about the Solar System created as part of a university Web Development course.
+I created a simple course website in Coursera using html, CSS and JavaScript that showcases solarsystem
 
 # Project Overview
 This project presnst baisc information about the Solar System
