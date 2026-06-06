@@ -1,6 +1,5 @@
 # Solar System Web Page
-I created a simple course website in Coursera using html, CSS and JavaScript that showcases solarsystem
-
+A simple educational web page created as part of a Web Development course on Coursera. The project provides basic information about the Solar System and its planets using HTML.
 # Project Overview
 This project presnst baisc information about the Solar System
 - Introduction to the Solar System
@@ -26,7 +25,6 @@ SolarSystem/
 1. Download or clone the repository.
 2. Open `solarsystem.html` in your browser.
 
-## 🎓 Academic Project
+## 🎓 Course Project
 
-This project was developed as a practice exercise during a university Web Development course.
-
+This project was developed as a practice exercise during a Web Development course on Coursera.
